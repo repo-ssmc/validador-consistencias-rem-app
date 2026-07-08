@@ -1,6 +1,6 @@
 # cambios-consistencias-rem-app
 
-### Introducción
+### Descripción
 
 El aplicativo de validación y consistencias de registro estadístico mensual (REM) en salud ha sido desarrollado con el objetivo de optimizar la revisión, consistencia y calidad de los datos reportados por los establecimientos de salud. Esta herramienta permite detectar errores, inconsistencias y omisiones en los registros, facilitando la validación oportuna de la información antes de su envío oficial. De esta manera, se fortalece la confiabilidad de las estadísticas sanitarias y se contribuye a una mejor toma de decisiones en el ámbito de la gestión en salud.
 
